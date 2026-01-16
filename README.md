@@ -55,8 +55,8 @@ Use this prompt with your favorite LLM to clone and set up the project automatic
 ```
 Clone and set up this project to run the GP intake checker:
 
-1) git clone <REPO_URL>
-2) cd <REPO_NAME>/test1
+1) git clone https://github.com/Give-a-Go/gp-intake-tracker-browser-agent.git
+2) cd gp-intake-tracker-browser-agent/test1
 3) uv sync
 4) export BROWSER_USE_API_KEY="<your_key>"
 5) python gp_intake_checker.py
